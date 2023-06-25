@@ -70,7 +70,6 @@ void loop() {
             break;
 
         default:
-            // Se um caractere inválido foi recebido, não faça nada.
             break;
     }
 }
