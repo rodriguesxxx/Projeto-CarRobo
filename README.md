@@ -40,5 +40,8 @@
 
 *Obs: Essas ligações não especificamente do nosso robô, mas no fim é a mesma coisa*
 
-**Explicando Ligações**
 
+## Programação
+
+Na programação do robo foi utilizada a <a href="https://www.arduino.cc/en/software">IDE</a> do Arduino.<br>
+Foi necessario estudar um pouco sobre c++
