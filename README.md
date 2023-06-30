@@ -2,7 +2,7 @@
 <h2 align="center">PROJETO CAR-RÔBO</h2>
 
 
- Este projeto consiste na criação de um carro robô controlado por um aplicativo feito no App Inventor e conectado a um Arduino por meio de um módulo Bluetooth. O diferencial deste projeto está na estética e no código utilizado, simples e eficiente.
+ Este projeto consiste na criação de um carro robô controlado por um aplicativo conectado a um Arduino por meio de um módulo Bluetooth. O diferencial deste projeto está na estética e no código utilizado, simples e eficiente.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/132585714/236859818-ab8eed34-0591-4030-a261-c6ebbbcd8478.jpg" />
@@ -45,4 +45,7 @@
 
 Na programação do robo foi utilizada a <a href="https://www.arduino.cc/en/software">IDE</a> do Arduino. Foi necessario estudar um pouco de c++, poís os elementos da linguagem Arduino são em c++. 
 <br>
-Já para a criação do aplicativo que contrala o carrinho, foi utilizado o <a href="https://appinventor.mit.edu/">MIT App Inventor</a>
+Já para a criação do aplicativo que controla o carrinho, foi utilizado o <a href="https://appinventor.mit.edu/">MIT App Inventor</a>
+ que é um software para criação de aplicativos com programando em blocos.
+<br>
+Em suma a parte da programação foi bem traquila poís tinhamos em nossa equipe grandes talentos.
