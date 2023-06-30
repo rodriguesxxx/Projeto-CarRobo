@@ -43,5 +43,6 @@
 
 ## Programação
 
-Na programação do robo foi utilizada a <a href="https://www.arduino.cc/en/software">IDE</a> do Arduino.<br>
-Foi necessario estudar um pouco sobre c++
+Na programação do robo foi utilizada a <a href="https://www.arduino.cc/en/software">IDE</a> do Arduino. Foi necessario estudar um pouco de c++, poís os elementos da linguagem Arduino são em c++. 
+<br>
+Já para a criação do aplicativo que contrala o carrinho, foi utilizado o <a href="https://appinventor.mit.edu/">MIT App Inventor</a>
