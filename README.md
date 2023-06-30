@@ -49,3 +49,9 @@ Já para a criação do aplicativo que controla o carrinho, foi utilizado o <a h
  que é um software para criação de aplicativos com programando em blocos.
 <br>
 Em suma a parte da programação foi bem traquila poís tinhamos em nossa equipe grandes talentos.
+
+
+## Testes
+
+Ao longo do projeto, fizemos diversos tipos de testes, desde o hardware até o software. Sem dúvidas, isso foi um dos fatores que contribuíram para nossa vitória.
+
