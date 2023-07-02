@@ -1,4 +1,3 @@
-
 <h2 align="center">PROJETO CAR-RÔBO</h2>
 
 
@@ -26,17 +25,18 @@
   
 ## Ligações Eletrônicas
 
+
+
+
+
 <p align="center">
-  <img src="https://github.com/blkD-html/Projeto-CarRobo/assets/117450018/562a5ecb-1333-43fd-ba24-3318aeb60d5c" width=70%/>
+  <img src="https://github.com/daniel-rodrigues1089/Projeto-CarRobo/assets/117450018/3b0872b0-1652-4048-be62-166693583d23" width=70%/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/blkD-html/Projeto-CarRobo/assets/117450018/2fe32017-1a03-44d5-9034-a8278a616515" width=70%/>
+  <img src="https://github.com/daniel-rodrigues1089/Projeto-CarRobo/assets/117450018/af4701b3-7439-4bdd-9520-cb7613e71916)" width=70%/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/blkD-html/Projeto-CarRobo/assets/117450018/a009f6ff-85b5-4fd0-8328-1066c9adb069" width=70%/>
-</p>
 
 *Obs: Essas ligações não especificamente do nosso robô, mas é a mesma coisa*
 
@@ -63,20 +63,24 @@ Em conclusão, o projeto Car-Rôbo foi um sucesso, combinando estética atraente
 
 ## Extras
 
-<p align="center">
-  <img src="https://github.com/daniel-rodrigues1089/Projeto-CarRobo/assets/117450018/78cecbdc-a92e-44e6-9c37-782cbffee71b" width=50%/>
-</p>
-
-https://github.com/daniel-rodrigues1089/Projeto-CarRobo/assets/117450018/f521c964-cd47-41f5-89c6-6988bfc2af0c
-
-
-https://github.com/daniel-rodrigues1089/Projeto-CarRobo/assets/117450018/79996c13-110c-4699-9ef8-612842fb23e3
-
 
 <p align="center">
-  <img src="https://github.com/daniel-rodrigues1089/Projeto-CarRobo/assets/117450018/4a32436c-3cd2-4d80-90ce-a1902541c76c" width=50%/>
+  <img src="https://github.com/daniel-rodrigues1089/Projeto-CarRobo/assets/117450018/72aa575a-ec60-4a09-b8c4-1d0816581236" width=50%/>
 </p>
 
 
+https://github.com/daniel-rodrigues1089/Projeto-CarRobo/assets/117450018/c93940c6-4242-40cd-879f-d5f2683b7177
 
-<h1 align="center">FIM</h1>
+https://github.com/daniel-rodrigues1089/Projeto-CarRobo/assets/117450018/2c0e7061-d4aa-4b69-aefd-ce2cd9cb6fde
+
+<p align="center">
+  <img src="https://github.com/daniel-rodrigues1089/Projeto-CarRobo/assets/117450018/c388b123-3516-4b0e-86cc-5876aeba3800" width=50%/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/daniel-rodrigues1089/Projeto-CarRobo/assets/117450018/99850297-ce1c-4660-87a6-8aac01adb1d8" width=50%/>
+</p>
+
+
+
+<h2 align="center">FIM</h2>
