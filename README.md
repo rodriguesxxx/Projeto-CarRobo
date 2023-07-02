@@ -38,7 +38,7 @@
   <img src="https://github.com/blkD-html/Projeto-CarRobo/assets/117450018/a009f6ff-85b5-4fd0-8328-1066c9adb069" width=70%/>
 </p>
 
-*Obs: Essas ligações não especificamente do nosso robô, mas no fim é a mesma coisa*
+*Obs: Essas ligações não especificamente do nosso robô, mas é a mesma coisa*
 
 
 ## Programação
