@@ -55,3 +55,8 @@ Em suma a parte da programação foi bem traquila poís tinhamos em nossa equipe
 
 Ao longo do projeto, fizemos diversos tipos de testes, desde o hardware até o software. Sem dúvidas, isso foi um dos fatores que contribuíram para nossa vitória.
 
+
+
+## Conclusão
+
+Em conclusão, o projeto Car-Rôbo foi um sucesso, combinando estética atraente com um código eficiente. Aprendemos muito durante o processo e acreditamos que esse projeto possa ser aprimorado e aplicado em diferentes áreas, como robótica educacional e automação residencial. Estamos orgulhosos do resultado final e ansiosos para continuar explorando o mundo da robótica.
