@@ -24,7 +24,7 @@
 - ``Rodas``
 
   
-## Ligações Eletronicas
+## Ligações Eletrônicas
 
 <p align="center">
   <img src="https://github.com/blkD-html/Projeto-CarRobo/assets/117450018/562a5ecb-1333-43fd-ba24-3318aeb60d5c" width=70%/>
@@ -56,7 +56,27 @@ Em suma a parte da programação foi bem traquila poís tinhamos em nossa equipe
 Ao longo do projeto, fizemos diversos tipos de testes, desde o hardware até o software. Sem dúvidas, isso foi um dos fatores que contribuíram para nossa vitória.
 
 
-
 ## Conclusão
 
 Em conclusão, o projeto Car-Rôbo foi um sucesso, combinando estética atraente com um código eficiente. Aprendemos muito durante o processo e acreditamos que esse projeto possa ser aprimorado e aplicado em diferentes áreas, como robótica educacional e automação residencial. Estamos orgulhosos do resultado final e ansiosos para continuar explorando o mundo da robótica.
+
+
+## Extras
+
+<p align="center">
+  <img src="https://github.com/daniel-rodrigues1089/Projeto-CarRobo/assets/117450018/78cecbdc-a92e-44e6-9c37-782cbffee71b" width=50%/>
+</p>
+
+https://github.com/daniel-rodrigues1089/Projeto-CarRobo/assets/117450018/f521c964-cd47-41f5-89c6-6988bfc2af0c
+
+
+https://github.com/daniel-rodrigues1089/Projeto-CarRobo/assets/117450018/79996c13-110c-4699-9ef8-612842fb23e3
+
+
+<p align="center">
+  <img src="https://github.com/daniel-rodrigues1089/Projeto-CarRobo/assets/117450018/4a32436c-3cd2-4d80-90ce-a1902541c76c" width=50%/>
+</p>
+
+
+
+<h1 align="center">FIM</h1>
